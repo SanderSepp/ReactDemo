@@ -1,4 +1,4 @@
-package com.react.ecample.demo;
+package com.react.example.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

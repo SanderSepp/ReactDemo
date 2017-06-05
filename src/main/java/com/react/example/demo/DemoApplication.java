@@ -1,4 +1,4 @@
-package com.react.ecample.demo;
+package com.react.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
