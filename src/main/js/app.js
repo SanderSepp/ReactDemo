@@ -146,7 +146,7 @@ class CreateDialog extends React.Component {
 
             <form>
               {inputs}
-              <button onClick={this.handleSubmit}>Create</button>
+              <button onClick={this.handleSubmit}>Create jo</button>
             </form>
           </div>
         </div>
